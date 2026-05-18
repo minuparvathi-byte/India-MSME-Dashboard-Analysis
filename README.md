@@ -111,7 +111,7 @@ National Data and Analytics Platform (NDAP)
 
 **🔍 Key Insights**
 
-•India’s MSME ecosystem is overwhelmingly dominated by micro enterprises (98.81%), highlighting limited enterprise scaling and growth.
+•India’s MSME ecosystem is overwhelmingly dominated by micro enterprises 48M(98.81%), highlighting limited enterprise scaling and growth.
 
 •MSME registrations are highly concentrated in a few industrialized states, with Maharashtra leading the country.
 
