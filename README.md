@@ -1,4 +1,4 @@
-# India MSME Landscape: Power-Bi-Dashboard-Project
+# India MSME Landscape: Power-Bi-Dashboard-Analysis
 **📌 Project Overview**
 
 This project provides a detailed analysis of MSME registrations across India covering:
